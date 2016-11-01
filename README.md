@@ -1,2 +1,2 @@
 # Robot
-Threejs robot
+Threejs robot, by Jack Burns
